@@ -1,4 +1,4 @@
-## Hi there I'm Dan 👋
+## Hi there I'm Daniel 👋
 
 - 🎨 I’m currently working on redesigning my design portfolio (https://danpitrowiski.github.io/).
 
