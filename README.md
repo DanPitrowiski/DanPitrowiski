@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there I'm Dan 👋
 
-<!--
-**DanPitrowiski/DanPitrowiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on redesigning my design portfolio (https://danpitrowiski.github.io/).
 
-Here are some ideas to get you started:
+Also I'm taking my web game (https://danpitrowiski.github.io/knight.html) and recoding in Godot. Hopefully I'll be able to upgrade the systems and expand them with the goal of releasing it on Steam.
 
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
